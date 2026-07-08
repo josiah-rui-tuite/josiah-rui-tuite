@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a developer and strategic planner specializing in dig
 #### 🔭 Current Focus & Projects
 
 *   **Next-Gen Production Line Simulator:** 
-    Developing a high-performance, single-file HTML/JavaScript production line simulator based on Discrete Event Simulation (DES).
+    Developing a high-performance, HTML/JavaScript production line simulator based on Discrete Event Simulation (DES).
     *   **Architecture:** Implementing Directed Cyclic Graphs (DCG) to represent complex routing instructions and Bill of Process (BOP), moving beyond traditional DAG limitations.
     *   **Synchronization:** Utilizing a strict "1 event, 3 functions (evaluate-validate-start)" structure to ensure robust local handshakes and precise state management.
 *   **AI Integration for the Dark Factory:** 
@@ -14,8 +14,8 @@ Welcome to my GitHub! I am a developer and strategic planner specializing in dig
 *   **Nexus Knowledge Engine:** 
     Building an integrated tool that combines Systems Thinking (causal loop diagrams), the SECI model, and Knowledge Graphs to digitize tacit knowledge in factory planning.
 
-#### 🌱 Vision
-My ultimate goal is to establish a new business ecosystem in the manufacturing sector that scales to a 1 trillion yen valuation. I document my methodologies, architectural patterns, and AI integration strategies in my KDP publications.
+Leveraging my hands-on experience as an engineer on the actual production floor, I would like to share various insights.
+I'll also introduce some neat little tools along the way.
 
 #### 🛠 Tech Stack
 *   **Core:** JavaScript (ES6+), HTML5, DOM API

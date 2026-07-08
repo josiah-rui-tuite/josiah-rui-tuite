@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a developer and strategic planner specializing in dig
     *   **Architecture:** Implementing Directed Cyclic Graphs (DCG) to represent complex routing instructions and Bill of Process (BOP), moving beyond traditional DAG limitations.
     *   **Synchronization:** Utilizing a strict "1 event, 3 functions (evaluate-validate-start)" structure to ensure robust local handshakes and precise state management.
 *   **AI Integration for the Dark Factory:** 
-    Designing KPIs (OTD, LT, FPY) for unmanned precision assembly lines. Exploring the use of LLMs (GPT-4o, Gemini) to analyze assembly videos (e.g., hydraulic pump assembly) for task decomposition and automated extraction of tacit knowledge.
+    Designing KPIs (OTD, LT, FPY) for unmanned precision assembly lines. Exploring the use of LLMs to analyze assembly videos (e.g., hydraulic pump assembly) for task decomposition and automated extraction of tacit knowledge.
 *   **Nexus Knowledge Engine:** 
     Building an integrated tool that combines Systems Thinking (causal loop diagrams), the SECI model, and Knowledge Graphs to digitize tacit knowledge in factory planning.
 

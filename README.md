@@ -24,3 +24,6 @@ I'll also introduce some neat little tools along the way.
 
 ---
 *"Simulating the future of manufacturing, one event at a time."*
+
+### Tools
+*   [Markdown Editor with real-time preview, Mermaid diagram support](https://github.com/josiah-rui-tuite/markdown-editor)

@@ -27,3 +27,8 @@ I'll also introduce some neat little tools along the way.
 
 ### Tools
 *   [Markdown Editor with real-time preview, Mermaid diagram support](https://github.com/josiah-rui-tuite/markdown-editor)
+*   [EPUB Viewer](https://github.com/josiah-rui-tuite/epub-viewer)
+*   [HTML 2 DOCX, Turn any HTML page into a KDP-ready Microsoft Word (.docx) manuscript](https://github.com/josiah-rui-tuite/html2docx)
+
+### Books
+*   [Loop Engineering](https://github.com/josiah-rui-tuite/Loop-Engineering)
